@@ -1,0 +1,69 @@
+\documentclass[a4paper,10pt]{article}
+\usepackage[english]{babel}
+\usepackage[utf8]{inputenc}
+\usepackage[toc,page]{appendix}
+\usepackage{graphicx}
+
+%Includes "References" in the table of contents
+\usepackage[nottoc]{tocbibind}
+\usepackage{titling}
+\usepackage{setspace}
+
+\usepackage{graphicx}
+
+\usepackage{multirow}
+\usepackage{array}
+\parskip .8ex
+
+\setlength{\droptitle}{-15em} %%%% Add this line if need more space. %%%%
+
+%Begining of the document
+\newcommand\MyBox[2]{
+	\fbox{\lower0.6cm
+		\vbox to 0.6cm{\vfil
+			\hbox to 0.9cm{\hfil\parbox{1.0cm}{#1\\#2}\hfil}
+			\vfil}%
+	}%
+}
+
+\begin{document}
+
+\title{CSCM21: Designing in Trust, Understanding, and Negotiation - Coursework: BeatLonliNess plc}
+\author{Andy Gray\\445348}
+\date{28/04/2021}
+
+\maketitle
+
+\section{Based on the scenario summarised above and the aspects of responsible design learnt in the lectures, discuss issues (legal, ethical, and technological) with the business proposal of BeatLonliNess plc. (13 Marks)}
+\label{sec:intro}
+
+In legal aspects, the BeatLonliNess (BLN) plc platform must abide by the data protection and GDPR rules that the British government and the EU have set out. These are rules to ensure that companies keep their users' data safe and secure while also holding the user's information relevant to the organisation. BLN could achieve this from the word go as they start to expand by using privacy by design method. Privacy by design ensures that privacy is a requirement in the design and development process that includes encryption, federated learning, differential privacy, access control, transparency, and finally, consent \cite{berte_slides_ai_law_overview}. The Information Commissioner's Office (ICO) states that policies and procedures are needed to get implemented to ensure data protection issues get considered when systems, services, products and business practices involving personal data are designed and implemented. Therefore, as a result, personal data gets protected by default, ensuring that safeguarding individuals' rights. These rights include data minimisation, pseudonymisation and purpose limitation \cite{ico_website}. 
+
+With BLN using AI-supported algorithms, they must get designed to be reliable. For the algorithms to be reliable, they would also need to carry out their tasks with high accuracy, ensuring that the generated results are as expected to get generated. Therefore it would be a good idea for BLN to build their algorithms with explainability within them. Making the algorithm explainable would allow the users to trust the algorithms more and see what factors impact their matchings. However, the data must not create any potential bias within the models to allow the matches to happen effectively, but removing bias is challenging to spot and remove. BLN must remove any potential bias from their datasets to ensure that no member of the platform gets discriminated against, whether it be because of their gender, race, religion, ethnicity or skin colour. 
+
+These issues also lead to BLN making sure that the algorithms and models they use are also responsible AI. For the AI to be responsible, the models will need to be transparent, trustworthy, ethical and respecting the privacy of the users. 
+
+
+\section{Summarise relevant examples of related media coverage in the last 5 years. (7 Marks)}
+
+
+	
+
+\section{Use the ETHICS GUIDELINES FOR TRUSTWORTHY AI published by AI high-level expert group of the European Commission in April 2019, in particular the TRUSTWORTHY AI ASSESSMENT LIST (p.24 of the report and standalone document), to discuss requirements for the system proposed by BeatLonliNess plc. (Links to these documents are posted with the assessment brief.) (10 Marks)}
+
+	
+\medskip
+\newpage
+%\begin{appendices}
+	
+	
+%\end{appendices}
+
+%\newpage
+
+%Sets the bibliography style to UNSRT and imports the 
+%bibliography file "samples.bib".
+\bibliographystyle{acm}
+\bibliography{samples}
+
+\end{document}
