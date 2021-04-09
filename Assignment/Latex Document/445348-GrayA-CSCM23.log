@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.20 (TeX Live 2019) (preloaded format=pdflatex 2019.10.22)  8 APR 2021 09:25
+This is pdfTeX, Version 3.14159265-2.6-1.40.20 (TeX Live 2019) (preloaded format=pdflatex 2019.10.22)  9 APR 2021 13:55
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -210,14 +210,42 @@ nput line 40.
 LaTeX Warning: Citation `ico_website' on page 1 undefined on input line 40.
 
 
-Overfull \hbox (4.85112pt too wide) in paragraph at lines 52--52
-[]\OT1/cmr/bx/n/14.4 Use the ETHICS GUIDE-LINES FOR TRUST-
- []
+LaTeX Warning: Citation `adam_slides_regulating_ai' on page 1 undefined on inpu
+t line 42.
+
+
+LaTeX Warning: Citation `berte_slides_ai_law_overview' on page 1 undefined on i
+nput line 48.
+
+
+LaTeX Warning: Citation `adam_slides_regulating_ai' on page 1 undefined on inpu
+t line 48.
 
 [1
 
 {/usr/local/texlive/2019/texmf-var/fonts/map/pdftex/updmap/pdftex.map}]
-[2] (./445348-GrayA-CSCM23.bbl [3]) [4] (./445348-GrayA-CSCM23.aux)
+
+LaTeX Warning: Citation `adam_slides_regulating_ai' on page 2 undefined on inpu
+t line 50.
+
+
+LaTeX Warning: Citation `adam_slides_regulating_ai' on page 2 undefined on inpu
+t line 50.
+
+
+LaTeX Warning: Citation `adam_slides_regulating_ai' on page 2 undefined on inpu
+t line 50.
+
+
+LaTeX Warning: Citation `adam_slides_regulating_ai' on page 2 undefined on inpu
+t line 52.
+
+
+Overfull \hbox (4.85112pt too wide) in paragraph at lines 60--60
+[]\OT1/cmr/bx/n/14.4 Use the ETHICS GUIDE-LINES FOR TRUST-
+ []
+
+[2] [3] (./445348-GrayA-CSCM23.bbl [4]) [5] (./445348-GrayA-CSCM23.aux)
 
 LaTeX Warning: There were undefined references.
 
@@ -229,7 +257,7 @@ Here is how much of TeX's memory you used:
  6284 multiletter control sequences out of 15000+600000
  8235 words of font info for 29 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 41i,6n,25p,1195b,225s stack positions out of 5000i,500n,10000p,200000b,80000s
+ 41i,6n,25p,1379b,225s stack positions out of 5000i,500n,10000p,200000b,80000s
 </usr/local/texlive/2019/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx10.pfb
 ></usr/local/texlive/2019/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx12.pfb>
 </usr/local/texlive/2019/texmf-dist/fonts/type1/public/amsfonts/cm/cmcsc10.pfb>
@@ -237,10 +265,10 @@ Here is how much of TeX's memory you used:
 usr/local/texlive/2019/texmf-dist/fonts/type1/public/amsfonts/cm/cmr12.pfb></us
 r/local/texlive/2019/texmf-dist/fonts/type1/public/amsfonts/cm/cmr17.pfb></usr/
 local/texlive/2019/texmf-dist/fonts/type1/public/amsfonts/cm/cmti10.pfb>
-Output written on 445348-GrayA-CSCM23.pdf (4 pages, 117987 bytes).
+Output written on 445348-GrayA-CSCM23.pdf (5 pages, 121175 bytes).
 PDF statistics:
- 45 PDF objects out of 1000 (max. 8388607)
- 31 compressed objects within 1 object stream
+ 48 PDF objects out of 1000 (max. 8388607)
+ 33 compressed objects within 1 object stream
  0 named destinations out of 1000 (max. 500000)
  1 words of extra memory for PDF output out of 10000 (max. 10000000)
 
