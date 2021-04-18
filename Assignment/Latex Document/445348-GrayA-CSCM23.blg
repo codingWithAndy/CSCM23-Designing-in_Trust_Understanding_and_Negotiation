@@ -3,71 +3,61 @@ Capacity: max_strings=100000, hash_size=100000, hash_prime=85009
 The top-level auxiliary file: 445348-GrayA-CSCM23.aux
 The style file: acm.bst
 Database file #1: samples.bib
-Warning--entry type for "lstm_networks" isn't style-file defined
---line 325 of file samples.bib
-Warning--entry type for "g4g" isn't style-file defined
---line 347 of file samples.bib
-Warning--entry type for "disater_kaggle" isn't style-file defined
---line 372 of file samples.bib
-Repeated entry---line 521 of file samples.bib
+Repeated entry---line 318 of file samples.bib
  : @book{geron2019hands
  :                     ,
 I'm skipping whatever remains of this entry
-Repeated entry---line 561 of file samples.bib
- : @article{scikit-learn
- :                      ,
+Repeated entry---line 371 of file samples.bib
+ : @book{grus2019data
+ :                   ,
 I'm skipping whatever remains of this entry
-Repeated entry---line 601 of file samples.bib
- : @inproceedings{ mckinney-proc-scipy-2010
- :                                         ,
-I'm skipping whatever remains of this entry
-Repeated entry---line 618 of file samples.bib
- : @article{cho2014learning
- :                         ,
-I'm skipping whatever remains of this entry
-Repeated entry---line 625 of file samples.bib
+Repeated entry---line 552 of file samples.bib
  : @book{geron2019hands
  :                     ,
 I'm skipping whatever remains of this entry
-You've used 15 entries,
+Repeated entry---line 656 of file samples.bib
+ : @book{geron2019hands
+ :                     ,
+I'm skipping whatever remains of this entry
+You've used 5 entries,
             2253 wiz_defined-function locations,
-            866 strings with 12453 characters,
-and the built_in function-call counts, 5842 in all, are:
-= -- 483
-> -- 458
+            813 strings with 10203 characters,
+and the built_in function-call counts, 1208 in all, are:
+= -- 103
+> -- 50
 < -- 0
-+ -- 185
-- -- 170
-* -- 486
-:= -- 1005
-add.period$ -- 39
-call.type$ -- 15
-change.case$ -- 128
++ -- 23
+- -- 16
+* -- 60
+:= -- 209
+add.period$ -- 15
+call.type$ -- 5
+change.case$ -- 20
 chr.to.int$ -- 0
-cite$ -- 15
-duplicate$ -- 154
-empty$ -- 381
-format.name$ -- 170
-if$ -- 1143
+cite$ -- 5
+duplicate$ -- 55
+empty$ -- 116
+format.name$ -- 16
+if$ -- 251
 int.to.chr$ -- 0
-int.to.str$ -- 15
-missing$ -- 9
-newline$ -- 72
-num.names$ -- 32
-pop$ -- 168
+int.to.str$ -- 5
+missing$ -- 6
+newline$ -- 28
+num.names$ -- 10
+pop$ -- 45
 preamble$ -- 1
-purify$ -- 114
+purify$ -- 18
 quote$ -- 0
-skip$ -- 113
+skip$ -- 32
 stack$ -- 0
-substring$ -- 196
-swap$ -- 38
+substring$ -- 27
+swap$ -- 10
 text.length$ -- 0
 text.prefix$ -- 0
 top$ -- 0
-type$ -- 58
+type$ -- 14
 warning$ -- 0
-while$ -- 39
-width$ -- 17
-write$ -- 138
-(There were 5 error messages)
+while$ -- 10
+width$ -- 6
+write$ -- 52
+(There were 4 error messages)
