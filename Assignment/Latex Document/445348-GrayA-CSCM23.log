@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.20 (TeX Live 2019) (preloaded format=pdflatex 2019.10.22)  18 APR 2021 13:39
+This is pdfTeX, Version 3.14159265-2.6-1.40.20 (TeX Live 2019) (preloaded format=pdflatex 2019.10.22)  20 APR 2021 09:53
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -258,7 +258,11 @@ LaTeX Warning: Citation `recorde_big_tech' on page 3 undefined on input line 60
 .
 
 
-Overfull \hbox (4.85112pt too wide) in paragraph at lines 69--69
+LaTeX Warning: Citation `whatsapp_fb_data' on page 3 undefined on input line 62
+.
+
+
+Overfull \hbox (4.85112pt too wide) in paragraph at lines 71--71
 []\OT1/cmr/bx/n/14.4 Use the ETHICS GUIDE-LINES FOR TRUST-
  []
 
@@ -294,7 +298,7 @@ Here is how much of TeX's memory you used:
 usr/local/texlive/2019/texmf-dist/fonts/type1/public/amsfonts/cm/cmr12.pfb></us
 r/local/texlive/2019/texmf-dist/fonts/type1/public/amsfonts/cm/cmr17.pfb></usr/
 local/texlive/2019/texmf-dist/fonts/type1/public/amsfonts/cm/cmti10.pfb>
-Output written on 445348-GrayA-CSCM23.pdf (4 pages, 111360 bytes).
+Output written on 445348-GrayA-CSCM23.pdf (4 pages, 111859 bytes).
 PDF statistics:
  45 PDF objects out of 1000 (max. 8388607)
  31 compressed objects within 1 object stream
