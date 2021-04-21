@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.20 (TeX Live 2019) (preloaded format=pdflatex 2019.10.22)  20 APR 2021 09:53
+This is pdfTeX, Version 3.14159265-2.6-1.40.20 (TeX Live 2019) (preloaded format=pdflatex 2019.10.22)  21 APR 2021 18:13
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -262,11 +262,11 @@ LaTeX Warning: Citation `whatsapp_fb_data' on page 3 undefined on input line 62
 .
 
 
-Overfull \hbox (4.85112pt too wide) in paragraph at lines 71--71
+Overfull \hbox (4.85112pt too wide) in paragraph at lines 65--65
 []\OT1/cmr/bx/n/14.4 Use the ETHICS GUIDE-LINES FOR TRUST-
  []
 
-[3] (./445348-GrayA-CSCM23.bbl
+[3] [4] (./445348-GrayA-CSCM23.bbl
 Underfull \hbox (badness 2111) in paragraph at lines 21--26
 []\OT1/cmr/m/sc/10 Koehrsen, W.  \OT1/cmr/m/n/10 An im-ple-men-ta-tion and ex-p
 la-na-tion of the ran-
@@ -278,7 +278,7 @@ Underfull \hbox (badness 1371) in paragraph at lines 21--26
 -
  []
 
-) [4] (./445348-GrayA-CSCM23.aux)
+) [5] (./445348-GrayA-CSCM23.aux)
 
 LaTeX Warning: There were undefined references.
 
@@ -298,10 +298,10 @@ Here is how much of TeX's memory you used:
 usr/local/texlive/2019/texmf-dist/fonts/type1/public/amsfonts/cm/cmr12.pfb></us
 r/local/texlive/2019/texmf-dist/fonts/type1/public/amsfonts/cm/cmr17.pfb></usr/
 local/texlive/2019/texmf-dist/fonts/type1/public/amsfonts/cm/cmti10.pfb>
-Output written on 445348-GrayA-CSCM23.pdf (4 pages, 111859 bytes).
+Output written on 445348-GrayA-CSCM23.pdf (5 pages, 113798 bytes).
 PDF statistics:
- 45 PDF objects out of 1000 (max. 8388607)
- 31 compressed objects within 1 object stream
+ 48 PDF objects out of 1000 (max. 8388607)
+ 33 compressed objects within 1 object stream
  0 named destinations out of 1000 (max. 500000)
  1 words of extra memory for PDF output out of 10000 (max. 10000000)
 
