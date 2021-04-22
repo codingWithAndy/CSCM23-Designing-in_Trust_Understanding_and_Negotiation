@@ -1,34 +1,54 @@
 \begin{thebibliography}{1}
 
-\bibitem{bruce2020practical}
-{\sc Bruce, P., Bruce, A., and Gedeck, P.}
-\newblock {\em Practical Statistics for Data Scientists: 50+ Essential Concepts
-  Using R and Python}.
-\newblock O'Reilly Media, 2020.
+\bibitem{recorde_big_tech}
+{\sc Ghaffary, S., and Rey, J.~D.}
+\newblock The big tech antitrust report has one big conclusion: Amazon, apple,
+  facebook, and google are anti-competitive, 2021.
+\newblock Recode, Online:
+  https://www.vox.com/recode/2020/10/6/21505027/congress-big-tech-antitrust-report-facebook-google-amazon-apple-mark-zuckerberg-jeff-bezos-tim-cook.
 
-\bibitem{geron2019hands}
-{\sc G{\'e}ron, A.}
-\newblock {\em Hands-on machine learning with Scikit-Learn, Keras, and
-  TensorFlow: Concepts, tools, and techniques to build intelligent systems}.
-\newblock O'Reilly Media, 2019.
+\bibitem{ALTAI_ws}
+{\sc {High-Level Expert Group on Artificial Intelligence (AI HLEG)}}.
+\newblock Assessment list for trustworthy artificial intelligence (altai) for
+  self-assessment, 2020.
+\newblock European Commission, Online:
+  https://digital-strategy.ec.europa.eu/en/library/assessment-list-trustworthy-artificial-intelligence-altai-self-assessment.
 
-\bibitem{grus2019data}
-{\sc Grus, J.}
-\newblock {\em Data science from scratch: first principles with python}.
-\newblock O'Reilly Media, 2019.
+\bibitem{msft_twit_ai}
+{\sc Hunt, E.}
+\newblock Twitter taught microsoft’s ai chatbot to be a racist asshole in
+  less than a day, 2016.
+\newblock The Guardian, Online:
+  https://www.theguardian.com/technology/2016/mar/24/tay-microsofts-ai-chatbot-gets-a-crash-course-in-racism-from-twitter.
 
-\bibitem{towards_ds_t}
-{\sc Koehrsen, W.}
-\newblock An implementation and explanation of the random forest in python,
-  2018.
-\newblock Towards Data Science Medium, Online:
-  https://towardsdatascience.com/an-implementation-and-explanation-of-the-random-forest-in-python-77bf308a9b76.
+\bibitem{ico_website}
+{\sc {Information Commission's Office}}.
+\newblock Data protection by design and by default, 2021.
+\newblock Online:
+  https://ico.org.uk/for-organisations/accountability-framework/policies-and-procedures/data-protection-by-design-and-by-default/.
 
-\bibitem{cloudfactory}
-{\sc Lander, J.~P., and Beigelmacher, M.}
-\newblock The essential guide to quality training data for machine learning,
-  2018.
-\newblock Cloud Factory, Online:
-  https://www.cloudfactory.com/training-data-guide.
+\bibitem{berte_slides_ai_law_overview}
+{\sc Something, B.}
+\newblock Bertie's slides, 2021.
+\newblock Swansea University.
+
+\bibitem{whatsapp_fb_data}
+{\sc Statt, N.}
+\newblock Whatsapp clarifies it’s not giving all your data to facebook after
+  surge in signal and telegram users, 2021.
+\newblock The Verge, Online:
+  https://www.theverge.com/2021/1/12/22226792/whatsapp-privacy-policy-response-signal-telegram-controversy-clarification.
+
+\bibitem{google_gorrila}
+{\sc Vincent, J.}
+\newblock Google ‘fixed’ its racist algorithm by removing gorillas from its
+  image-labeling tech, 2018.
+\newblock The Verge, Online:
+  https://www.theverge.com/2018/1/12/16882408/google-racist-gorillas-photo-recognition-algorithm-ai.
+
+\bibitem{adam_slides_regulating_ai}
+{\sc W, A.}
+\newblock Adam's slides, 2021.
+\newblock Swansea University.
 
 \end{thebibliography}

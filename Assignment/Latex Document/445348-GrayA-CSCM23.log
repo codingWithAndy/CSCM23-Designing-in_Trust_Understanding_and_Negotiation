@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.20 (TeX Live 2019) (preloaded format=pdflatex 2019.10.22)  21 APR 2021 18:13
+This is pdfTeX, Version 3.14159265-2.6-1.40.20 (TeX Live 2019) (preloaded format=pdflatex 2019.10.22)  22 APR 2021 18:42
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -202,106 +202,123 @@ Overfull \hbox (5.35135pt too wide) in paragraph at lines 37--37
 \OT1/cmr/bx/n/14.4 lec-tures, dis-cuss is-sues (le-gal, eth-i-cal, and tech-
  []
 
-
-LaTeX Warning: Citation `berte_slides_ai_law_overview' on page 1 undefined on i
-nput line 40.
-
-
-LaTeX Warning: Citation `ico_website' on page 1 undefined on input line 40.
-
-
-LaTeX Warning: Citation `adam_slides_regulating_ai' on page 1 undefined on inpu
-t line 42.
-
-
-LaTeX Warning: Citation `berte_slides_ai_law_overview' on page 1 undefined on i
-nput line 47.
-
-
-LaTeX Warning: Citation `adam_slides_regulating_ai' on page 1 undefined on inpu
-t line 47.
-
 [1
 
 {/usr/local/texlive/2019/texmf-var/fonts/map/pdftex/updmap/pdftex.map}]
-
-LaTeX Warning: Citation `adam_slides_regulating_ai' on page 2 undefined on inpu
-t line 49.
-
-
-LaTeX Warning: Citation `adam_slides_regulating_ai' on page 2 undefined on inpu
-t line 49.
-
-
-LaTeX Warning: Citation `adam_slides_regulating_ai' on page 2 undefined on inpu
-t line 49.
-
-
-LaTeX Warning: Citation `adam_slides_regulating_ai' on page 2 undefined on inpu
-t line 51.
-
-
-LaTeX Warning: Citation `msft_twit_ai' on page 2 undefined on input line 56.
-
-
-LaTeX Warning: Citation `msft_twit_ai' on page 2 undefined on input line 56.
-
-
-LaTeX Warning: Citation `msft_twit_ai' on page 2 undefined on input line 56.
-
-
-LaTeX Warning: Citation `google_gorrila' on page 2 undefined on input line 58.
-
 [2]
-
-LaTeX Warning: Citation `recorde_big_tech' on page 3 undefined on input line 60
-.
-
-
-LaTeX Warning: Citation `whatsapp_fb_data' on page 3 undefined on input line 62
-.
-
-
 Overfull \hbox (4.85112pt too wide) in paragraph at lines 65--65
 []\OT1/cmr/bx/n/14.4 Use the ETHICS GUIDE-LINES FOR TRUST-
  []
 
 [3] [4] (./445348-GrayA-CSCM23.bbl
-Underfull \hbox (badness 2111) in paragraph at lines 21--26
-[]\OT1/cmr/m/sc/10 Koehrsen, W.  \OT1/cmr/m/n/10 An im-ple-men-ta-tion and ex-p
-la-na-tion of the ran-
+Underfull \hbox (badness 10000) in paragraph at lines 4--9
+[]\OT1/cmr/m/sc/10 Ghaffary, S., and Rey, J. D.  \OT1/cmr/m/n/10 The big tech a
+n-
  []
 
 
-Underfull \hbox (badness 1371) in paragraph at lines 21--26
-\OT1/cmr/m/n/10 dom for-est in python, 2018.  To-wards Data Sci-ence Medium, On
+Underfull \hbox (badness 10000) in paragraph at lines 4--9
+\OT1/cmr/m/n/10 titrust re-port has one big con-clu-sion: Ama-zon, ap-ple, face
 -
  []
 
-) [5] (./445348-GrayA-CSCM23.aux)
 
-LaTeX Warning: There were undefined references.
+Underfull \hbox (badness 5374) in paragraph at lines 4--9
+\OT1/cmr/m/n/10 book, and google are anti-competitive, 2021.  Re-code, On-line:
 
- ) 
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 4--9
+\OT1/cmr/m/n/10 https://www.vox.com/recode/2020/10/6/21505027/congress-big-tech
+-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 4--9
+\OT1/cmr/m/n/10 antitrust-report-facebook-google-amazon-apple-mark-zuckerberg-j
+eff-bezos-
+ []
+
+
+Underfull \hbox (badness 4391) in paragraph at lines 11--16
+[]\OT1/cmr/m/sc/10 High-Level Ex-pert Group on Ar-ti-fi-cial In-tel-li-gence (A
+I
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 11--16
+\OT1/cmr/m/n/10 strategy.ec.europa.eu/en/library/assessment-list-trustworthy-ar
+tificial-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 18--23
+[]\OT1/cmr/m/sc/10 Hunt, E.  \OT1/cmr/m/n/10 Twit-ter taught mi-crosoft's ai ch
+at-bot to be a
+ []
+
+
+Underfull \hbox (badness 2253) in paragraph at lines 18--23
+\OT1/cmr/m/n/10 racist ass-hole in less than a day, 2016.  The Guardian, On-lin
+e:
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 18--23
+\OT1/cmr/m/n/10 https://www.theguardian.com/technology/2016/mar/24/tay-microsof
+ts-ai-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 25--29
+\OT1/cmr/m/n/10 framework/policies-and-procedures/data-protection-by-design-and
+-by-
+ []
+
+
+Underfull \hbox (badness 2351) in paragraph at lines 36--41
+\OT1/cmr/m/n/10 line: https://www.theverge.com/2021/1/12/22226792/whatsapp-priv
+acy-
+ []
+
+
+Underfull \hbox (badness 1609) in paragraph at lines 43--48
+[]\OT1/cmr/m/sc/10 Vincent, J.  \OT1/cmr/m/n/10 Google `fixed' its racist al-go
+-rithm by re-mov-ing go-
+ []
+
+
+Underfull \hbox (badness 5578) in paragraph at lines 43--48
+\OT1/cmr/m/n/10 ril-las from its image-labeling tech, 2018.  The Verge, On-line
+:
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 43--48
+\OT1/cmr/m/n/10 https://www.theverge.com/2018/1/12/16882408/google-racist-goril
+las-
+ []
+
+) [5] (./445348-GrayA-CSCM23.aux) ) 
 Here is how much of TeX's memory you used:
- 2391 strings out of 492616
- 34360 string characters out of 6129480
- 109111 words of memory out of 5000000
- 6273 multiletter control sequences out of 15000+600000
- 8235 words of font info for 29 fonts, out of 8000000 for 9000
+ 2390 strings out of 492616
+ 34386 string characters out of 6129480
+ 109123 words of memory out of 5000000
+ 6274 multiletter control sequences out of 15000+600000
+ 7581 words of font info for 27 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
  41i,6n,25p,1379b,183s stack positions out of 5000i,500n,10000p,200000b,80000s
-</usr/local/texlive/2019/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx10.pfb
-></usr/local/texlive/2019/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx12.pfb>
-</usr/local/texlive/2019/texmf-dist/fonts/type1/public/amsfonts/cm/cmcsc10.pfb>
-</usr/local/texlive/2019/texmf-dist/fonts/type1/public/amsfonts/cm/cmr10.pfb></
-usr/local/texlive/2019/texmf-dist/fonts/type1/public/amsfonts/cm/cmr12.pfb></us
-r/local/texlive/2019/texmf-dist/fonts/type1/public/amsfonts/cm/cmr17.pfb></usr/
-local/texlive/2019/texmf-dist/fonts/type1/public/amsfonts/cm/cmti10.pfb>
-Output written on 445348-GrayA-CSCM23.pdf (5 pages, 113798 bytes).
+</usr/local/texlive/2019/texmf-dist/fonts/ty
+pe1/public/amsfonts/cm/cmbx12.pfb></usr/local/texlive/2019/texmf-dist/fonts/typ
+e1/public/amsfonts/cm/cmcsc10.pfb></usr/local/texlive/2019/texmf-dist/fonts/typ
+e1/public/amsfonts/cm/cmr10.pfb></usr/local/texlive/2019/texmf-dist/fonts/type1
+/public/amsfonts/cm/cmr12.pfb></usr/local/texlive/2019/texmf-dist/fonts/type1/p
+ublic/amsfonts/cm/cmr17.pfb>
+Output written on 445348-GrayA-CSCM23.pdf (5 pages, 91535 bytes).
 PDF statistics:
- 48 PDF objects out of 1000 (max. 8388607)
- 33 compressed objects within 1 object stream
+ 40 PDF objects out of 1000 (max. 8388607)
+ 27 compressed objects within 1 object stream
  0 named destinations out of 1000 (max. 500000)
  1 words of extra memory for PDF output out of 10000 (max. 10000000)
 
