@@ -21,6 +21,12 @@
 \newblock The Guardian, Online:
   https://www.theguardian.com/technology/2016/mar/24/tay-microsofts-ai-chatbot-gets-a-crash-course-in-racism-from-twitter.
 
+\bibitem{gdpr}
+{\sc {Information Commission's Office}}.
+\newblock Guide to the general data protection regulation (gdpr), 2018.
+\newblock UK.Gov, Online:
+  https://www.gov.uk/government/publications/guide-to-the-general-data-protection-regulation.
+
 \bibitem{ico_website}
 {\sc {Information Commission's Office}}.
 \newblock Data protection by design and by default, 2021.
@@ -28,8 +34,9 @@
   https://ico.org.uk/for-organisations/accountability-framework/policies-and-procedures/data-protection-by-design-and-by-default/.
 
 \bibitem{berte_slides_ai_law_overview}
-{\sc Something, B.}
-\newblock Bertie's slides, 2021.
+{\sc Muller, B.}
+\newblock Designing-in trust, understanding, and negotiation law-xai relection,
+  2021.
 \newblock Swansea University.
 
 \bibitem{whatsapp_fb_data}
@@ -47,8 +54,8 @@
   https://www.theverge.com/2018/1/12/16882408/google-racist-gorillas-photo-recognition-algorithm-ai.
 
 \bibitem{adam_slides_regulating_ai}
-{\sc W, A.}
-\newblock Adam's slides, 2021.
+{\sc Wyner, A.}
+\newblock Artificial intelligence and the law - regulating ai, 2021.
 \newblock Swansea University.
 
 \end{thebibliography}

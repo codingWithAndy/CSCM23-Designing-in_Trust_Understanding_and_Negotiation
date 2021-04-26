@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.20 (TeX Live 2019) (preloaded format=pdflatex 2019.10.22)  25 APR 2021 11:03
+This is pdfTeX, Version 3.14159265-2.6-1.40.20 (TeX Live 2019) (preloaded format=pdflatex 2019.10.22)  26 APR 2021 19:33
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -206,11 +206,11 @@ Overfull \hbox (5.35135pt too wide) in paragraph at lines 37--37
 
 {/usr/local/texlive/2019/texmf-var/fonts/map/pdftex/updmap/pdftex.map}]
 [2]
-Overfull \hbox (4.85112pt too wide) in paragraph at lines 65--65
+Overfull \hbox (4.85112pt too wide) in paragraph at lines 62--62
 []\OT1/cmr/bx/n/14.4 Use the ETHICS GUIDE-LINES FOR TRUST-
  []
 
-[3] [4] (./445348-GrayA-CSCM23.bbl
+[3] [4] [5] (./445348-GrayA-CSCM23.bbl
 Underfull \hbox (badness 10000) in paragraph at lines 4--9
 []\OT1/cmr/m/sc/10 Ghaffary, S., and Rey, J. D.  \OT1/cmr/m/n/10 The big tech a
 n-
@@ -272,53 +272,71 @@ ts-ai-
 
 
 Underfull \hbox (badness 10000) in paragraph at lines 25--29
+[]\OT1/cmr/m/sc/10 Information Com-mis-sion's Of-fice\OT1/cmr/m/n/10 .  Guide t
+o the gen-
+ []
+
+
+Underfull \hbox (badness 4765) in paragraph at lines 25--29
+\OT1/cmr/m/n/10 eral data pro-tec-tion reg-u-la-tion (gdpr), 2018.  UK.Gov, On-
+line:
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 25--29
+\OT1/cmr/m/n/10 https://www.gov.uk/government/publications/guide-to-the-general
+-data-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 31--35
 \OT1/cmr/m/n/10 framework/policies-and-procedures/data-protection-by-design-and
 -by-
  []
 
 
-Underfull \hbox (badness 2351) in paragraph at lines 36--41
+Underfull \hbox (badness 2351) in paragraph at lines 43--48
 \OT1/cmr/m/n/10 line: https://www.theverge.com/2021/1/12/22226792/whatsapp-priv
 acy-
  []
 
 
-Underfull \hbox (badness 1609) in paragraph at lines 43--48
+Underfull \hbox (badness 1609) in paragraph at lines 50--55
 []\OT1/cmr/m/sc/10 Vincent, J.  \OT1/cmr/m/n/10 Google `fixed' its racist al-go
 -rithm by re-mov-ing go-
  []
 
 
-Underfull \hbox (badness 5578) in paragraph at lines 43--48
+Underfull \hbox (badness 5578) in paragraph at lines 50--55
 \OT1/cmr/m/n/10 ril-las from its image-labeling tech, 2018.  The Verge, On-line
 :
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 43--48
+Underfull \hbox (badness 10000) in paragraph at lines 50--55
 \OT1/cmr/m/n/10 https://www.theverge.com/2018/1/12/16882408/google-racist-goril
 las-
  []
 
-) [5] (./445348-GrayA-CSCM23.aux) ) 
+) [6] (./445348-GrayA-CSCM23.aux) ) 
 Here is how much of TeX's memory you used:
- 2390 strings out of 492616
- 34386 string characters out of 6129480
- 110123 words of memory out of 5000000
- 6274 multiletter control sequences out of 15000+600000
+ 2391 strings out of 492616
+ 34392 string characters out of 6129480
+ 110127 words of memory out of 5000000
+ 6275 multiletter control sequences out of 15000+600000
  7581 words of font info for 27 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 41i,6n,25p,1420b,183s stack positions out of 5000i,500n,10000p,200000b,80000s
+ 41i,6n,25p,1464b,183s stack positions out of 5000i,500n,10000p,200000b,80000s
 </usr/local/texlive/2019/texmf-dist/fonts/ty
 pe1/public/amsfonts/cm/cmbx12.pfb></usr/local/texlive/2019/texmf-dist/fonts/typ
 e1/public/amsfonts/cm/cmcsc10.pfb></usr/local/texlive/2019/texmf-dist/fonts/typ
 e1/public/amsfonts/cm/cmr10.pfb></usr/local/texlive/2019/texmf-dist/fonts/type1
 /public/amsfonts/cm/cmr12.pfb></usr/local/texlive/2019/texmf-dist/fonts/type1/p
 ublic/amsfonts/cm/cmr17.pfb>
-Output written on 445348-GrayA-CSCM23.pdf (5 pages, 92841 bytes).
+Output written on 445348-GrayA-CSCM23.pdf (6 pages, 94213 bytes).
 PDF statistics:
- 40 PDF objects out of 1000 (max. 8388607)
- 27 compressed objects within 1 object stream
+ 43 PDF objects out of 1000 (max. 8388607)
+ 29 compressed objects within 1 object stream
  0 named destinations out of 1000 (max. 500000)
  1 words of extra memory for PDF output out of 10000 (max. 10000000)
 
